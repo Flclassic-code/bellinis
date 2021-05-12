@@ -1,0 +1,27 @@
+{
+  "config": {
+    "src": {
+        "root"         : "app",
+        "templates"    : "app/pug",
+        "css"          : "app/css",
+        "fonts"        : "app/fonts",
+        "sass"         : "app/sass",
+        "jslibs"       : "app/js/libs",
+        "js"           : "app/js",
+        "img"          : "app/img",
+        "htmlIncl"     : "app/htmlIncl",
+        "sprite"       : "app/img/sprite",
+        "phpMailer"    : "app/PHPMailer",
+        "sendmail"     : "app/sendmail.php",
+        "favicon"     : "app/favicon.ico"
+    },
+    "dest": {
+        "root"         : "tender",
+        "css"          : "tender/css",
+        "js"           : "tender/js",
+        "img"          : "tender/img",
+        "fonts"        : "tender/fonts",
+        "phpMailer"    : "tender/PHPMailer"
+    }
+  }
+}
